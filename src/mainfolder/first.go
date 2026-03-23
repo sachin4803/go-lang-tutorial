@@ -6,14 +6,7 @@ import (
 	"examplegithub.com/src/packagefolder"
 )
 
-var a int
-
-func init() {
-	fmt.Println("Int func")
-	a = 100
-}
-
-func main() {
+func first() {
 	fmt.Println("Hello, World!")
 	Hello()
 	welcome()
