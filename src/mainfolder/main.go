@@ -12,6 +12,7 @@ func init() {
 func main() {
 
 	//first()
-	declare()
+	//declare()
+	meth()
 
 }
