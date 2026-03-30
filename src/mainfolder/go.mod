@@ -1,7 +1,7 @@
-module examplegithub.com/src/mainfolder
+module github.com/sachin4803/go-lang-tutorial/src/mainfolder
 
 go 1.23.4
 
-replace examplegithub.com/src/packagefolder => ../packagefolder
+replace github.com/sachin4803/go-lang-tutorial/src/packagefolder => ../packagefolder
 
-require examplegithub.com/src/packagefolder v0.0.0-00010101000000-000000000000
+require github.com/sachin4803/go-lang-tutorial/src/packagefolder v0.0.0-00010101000000-000000000000
