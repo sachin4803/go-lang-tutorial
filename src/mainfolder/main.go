@@ -13,6 +13,7 @@ func main() {
 
 	//first()
 	//declare()
-	meth()
+	//meth()
+	exception()
 
 }
